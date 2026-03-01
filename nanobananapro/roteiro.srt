@@ -1,0 +1,1284 @@
+1
+00:00:00,310 --> 00:00:00,790
+Este é você.
+2
+00:00:01,490 --> 00:00:04,270
+O ano é 1895.
+3
+00:00:04,830 --> 00:00:06,110
+A República acaba de
+4
+00:00:06,110 --> 00:00:07,590
+nascer e a cidade
+5
+00:00:07,590 --> 00:00:08,550
+do Rio de Janeiro
+6
+00:00:08,550 --> 00:00:10,470
+é um caldeirão fervente
+7
+00:00:10,470 --> 00:00:12,470
+e impiedoso que cheira
+8
+00:00:12,470 --> 00:00:14,630
+a suor, charutos baratos
+9
+00:00:14,630 --> 00:00:15,990
+e esgoto a céu
+10
+00:00:15,990 --> 00:00:16,430
+aberto.
+11
+00:00:17,010 --> 00:00:17,650
+Você é um cara
+12
+00:00:17,650 --> 00:00:19,570
+comum ou, para ser
+13
+00:00:19,570 --> 00:00:21,030
+brutalmente honesto com você
+14
+00:00:21,030 --> 00:00:22,610
+mesmo enquanto se olha
+15
+00:00:22,610 --> 00:00:24,110
+no espelho, você é
+16
+00:00:24,110 --> 00:00:24,790
+um perdedor.
+17
+00:00:25,610 --> 00:00:26,670
+Você nasceu em uma
+18
+00:00:26,670 --> 00:00:28,610
+pobreza tão extrema, tão
+19
+00:00:28,610 --> 00:00:30,490
+sufocante, que a miséria
+20
+00:00:30,490 --> 00:00:31,850
+parece grudada na sua
+21
+00:00:31,850 --> 00:00:33,250
+pele como se fosse
+22
+00:00:33,250 --> 00:00:35,090
+uma doença crônica incurável.
+23
+00:00:35,310 --> 00:00:36,890
+Você trabalha 14 horas
+24
+00:00:36,890 --> 00:00:38,050
+por dia quebrando as
+25
+00:00:38,050 --> 00:00:40,030
+costas e carregando sacas
+26
+00:00:40,030 --> 00:00:41,190
+de café no porto
+27
+00:00:41,190 --> 00:00:42,730
+sob um sol tropical
+28
+00:00:42,730 --> 00:00:44,390
+apenas para ganhar um
+29
+00:00:44,390 --> 00:00:46,490
+salário miserável que mal
+30
+00:00:46,490 --> 00:00:47,410
+paga a farinha que
+31
+00:00:47,410 --> 00:00:48,010
+você come.
+32
+00:00:48,790 --> 00:00:49,450
+A sua vida é
+33
+00:00:49,450 --> 00:00:51,150
+um ciclo interminável de
+34
+00:00:51,150 --> 00:00:53,470
+exaustão e humilhação, onde
+35
+00:00:53,470 --> 00:00:55,670
+você frequentemente precisa decidir
+36
+00:00:55,670 --> 00:00:57,050
+qual refeição vai pular
+37
+00:00:57,050 --> 00:00:58,390
+para não morrer de
+38
+00:00:58,390 --> 00:00:58,650
+fome.
+39
+00:00:58,650 --> 00:01:00,910
+Mas o verdadeiro pesadelo
+40
+00:01:00,910 --> 00:01:02,250
+começa quando você chega
+41
+00:01:02,250 --> 00:01:03,489
+em casa arrastando os
+42
+00:01:03,489 --> 00:01:03,790
+pés.
+43
+00:01:04,610 --> 00:01:06,290
+Sua esposa, a única
+44
+00:01:06,290 --> 00:01:07,250
+luz na sua vida
+45
+00:01:07,250 --> 00:01:08,990
+miserável, está deitada num
+46
+00:01:08,990 --> 00:01:10,490
+colchão de palha imundo,
+47
+00:01:11,130 --> 00:01:12,750
+tremendo de febre e
+48
+00:01:12,750 --> 00:01:13,610
+tossindo sangue.
+49
+00:01:14,270 --> 00:01:15,390
+É a febre amarela,
+50
+00:01:15,770 --> 00:01:16,830
+a praga que está
+51
+00:01:16,830 --> 00:01:18,250
+devorando os pobres sem
+52
+00:01:18,250 --> 00:01:18,830
+piedade.
+53
+00:01:19,470 --> 00:01:21,150
+O médico local, um
+54
+00:01:21,150 --> 00:01:22,050
+homem que olha para
+55
+00:01:22,050 --> 00:01:22,930
+as paredes da sua
+56
+00:01:22,930 --> 00:01:24,530
+casa com puro desprezo,
+57
+00:01:25,190 --> 00:01:26,010
+diz que ela precisa
+58
+00:01:26,010 --> 00:01:28,630
+de remédios importados imediatamente.
+59
+00:01:28,650 --> 00:01:30,150
+Ou não passará da
+60
+00:01:30,150 --> 00:01:30,930
+próxima semana.
+61
+00:01:31,810 --> 00:01:32,790
+O preço é uma
+62
+00:01:32,790 --> 00:01:34,370
+fortuna inalcançável.
+63
+00:01:35,110 --> 00:01:36,710
+Para um aristocrata, esse
+64
+00:01:36,710 --> 00:01:37,690
+valor é o troco
+65
+00:01:37,690 --> 00:01:38,510
+gasto em vinho.
+66
+00:01:39,070 --> 00:01:40,030
+Mas para você, é
+67
+00:01:40,030 --> 00:01:41,350
+um muro de tijolos
+68
+00:01:41,350 --> 00:01:43,210
+intransponível entre a vida
+69
+00:01:43,210 --> 00:01:44,570
+da sua esposa e
+70
+00:01:44,570 --> 00:01:45,270
+o cemitério.
+71
+00:01:45,930 --> 00:01:47,450
+Ninguém confia num estivador
+72
+00:01:47,450 --> 00:01:47,930
+sujo.
+73
+00:01:48,390 --> 00:01:49,570
+O banco te recusa
+74
+00:01:49,570 --> 00:01:51,170
+e o desespero aperta
+75
+00:01:51,170 --> 00:01:52,290
+sua gardanta como uma
+76
+00:01:52,290 --> 00:01:52,770
+corda.
+77
+00:01:53,510 --> 00:01:54,850
+É numa taverna escura
+78
+00:01:54,850 --> 00:01:56,170
+e cheia de fumaça
+79
+00:01:56,170 --> 00:01:57,810
+que um homem misterioso
+80
+00:01:57,810 --> 00:01:58,570
+se aproxima.
+81
+00:01:59,050 --> 00:02:00,190
+Ele veste um terno
+82
+00:02:00,190 --> 00:02:01,670
+de linho branco impecável,
+83
+00:02:02,230 --> 00:02:02,970
+cheira a água de
+84
+00:02:02,970 --> 00:02:04,550
+colônia cara e faz
+85
+00:02:04,550 --> 00:02:05,550
+uma oferta que você
+86
+00:02:05,550 --> 00:02:07,449
+simplesmente não pode recusar.
+87
+00:02:08,289 --> 00:02:09,250
+Ele explica que um
+88
+00:02:09,250 --> 00:02:10,690
+nobre criou uma loteria
+89
+00:02:10,690 --> 00:02:12,550
+de animais para financiar
+90
+00:02:12,550 --> 00:02:13,710
+o zoológico, mas que
+91
+00:02:13,710 --> 00:02:14,830
+o dinheiro de verdade
+92
+00:02:14,830 --> 00:02:16,070
+não está nos portões
+93
+00:02:16,070 --> 00:02:16,770
+oficiais.
+94
+00:02:17,270 --> 00:02:18,590
+Está nas sombras e
+95
+00:02:18,590 --> 00:02:19,170
+nos becos.
+96
+00:02:19,950 --> 00:02:20,890
+Ele precisa de alguém
+97
+00:02:20,890 --> 00:02:22,770
+desesperado o suficiente para
+98
+00:02:22,770 --> 00:02:24,770
+correr riscos diários e
+99
+00:02:24,770 --> 00:02:26,950
+ser um apontador ilegal
+100
+00:02:26,950 --> 00:02:28,670
+das apostas nas ruas.
+101
+00:02:29,370 --> 00:02:30,850
+Em troca, ele pagará
+102
+00:02:30,850 --> 00:02:31,830
+o triplo do seu
+103
+00:02:31,830 --> 00:02:33,630
+salário semanal em um
+104
+00:02:33,630 --> 00:02:34,410
+único dia.
+105
+00:02:35,290 --> 00:02:36,470
+A entrada no submundo
+106
+00:02:36,470 --> 00:02:38,670
+criminal sempre ocorre por
+107
+00:02:38,670 --> 00:02:39,850
+pura falta de opção
+108
+00:02:39,850 --> 00:02:41,750
+ou desespero absoluto.
+109
+00:02:42,370 --> 00:02:43,630
+O seu instinto grita
+110
+00:02:43,630 --> 00:02:45,050
+que é uma armadilha,
+111
+00:02:45,250 --> 00:02:46,130
+mas a imagem da
+112
+00:02:46,130 --> 00:02:47,910
+sua esposa morrendo faz
+113
+00:02:47,910 --> 00:02:49,630
+você silenciar a moralidade.
+114
+00:02:49,830 --> 00:02:51,090
+Você assina um pacto
+115
+00:02:51,090 --> 00:02:52,670
+com o diabo, prometendo
+116
+00:02:52,670 --> 00:02:53,490
+a si mesmo a
+117
+00:02:53,490 --> 00:02:54,870
+velha mentira do submundo.
+118
+00:02:55,590 --> 00:02:56,570
+É só desta vez.
+119
+00:02:57,330 --> 00:02:58,950
+No dia seguinte, o
+120
+00:02:58,950 --> 00:02:59,970
+homem de linho branco
+121
+00:02:59,970 --> 00:03:01,710
+começa a sua masterclass
+122
+00:03:01,710 --> 00:03:02,670
+macabra.
+123
+00:03:03,090 --> 00:03:04,290
+O público deve sentir
+124
+00:03:04,290 --> 00:03:05,470
+que está aprendendo um
+125
+00:03:05,470 --> 00:03:07,110
+segredo técnico e proibido
+126
+00:03:07,110 --> 00:03:08,970
+com precisão cirúrgica.
+127
+00:03:09,770 --> 00:03:10,710
+Ele não te ensina
+128
+00:03:10,710 --> 00:03:11,650
+a ser um criminoso
+129
+00:03:11,650 --> 00:03:12,410
+violento.
+130
+00:03:12,970 --> 00:03:13,830
+Ele te ensina a
+131
+00:03:13,830 --> 00:03:15,390
+ser um calculista frio,
+132
+00:03:15,930 --> 00:03:17,590
+um matemático da miséria
+133
+00:03:17,590 --> 00:03:18,050
+humana.
+134
+00:03:18,710 --> 00:03:19,990
+A tabela clandestina tem
+135
+00:03:19,990 --> 00:03:22,010
+25 animais e cada
+136
+00:03:22,010 --> 00:03:23,230
+um representa um grupo
+137
+00:03:23,230 --> 00:03:24,550
+de quatro dezenas.
+138
+00:03:24,690 --> 00:03:26,090
+A lâmina afiada do
+139
+00:03:26,090 --> 00:03:27,610
+negócio é usar a
+140
+00:03:27,610 --> 00:03:29,610
+psicologia contra os desesperados.
+141
+00:03:30,330 --> 00:03:31,530
+Se uma lavadeira sonha
+142
+00:03:31,530 --> 00:03:33,210
+com traição, você a
+143
+00:03:33,210 --> 00:03:34,490
+convence a apostar o
+144
+00:03:34,490 --> 00:03:35,330
+dinheiro do pão na
+145
+00:03:35,330 --> 00:03:35,950
+borboleta.
+146
+00:03:36,670 --> 00:03:38,150
+Você entende rapidamente que
+147
+00:03:38,150 --> 00:03:39,410
+não está vendendo bilhetes
+148
+00:03:39,410 --> 00:03:41,030
+de papel, mas sim
+149
+00:03:41,030 --> 00:03:43,350
+esperança falsa embalada em
+150
+00:03:43,350 --> 00:03:43,710
+números.
+151
+00:03:44,430 --> 00:03:46,130
+A logística é invisível
+152
+00:03:46,130 --> 00:03:46,870
+e genial.
+153
+00:03:47,670 --> 00:03:48,850
+Você esconde os bloquinhos
+154
+00:03:48,850 --> 00:03:50,070
+de apostas na sola
+155
+00:03:50,070 --> 00:03:51,590
+dos seus sapatos e
+156
+00:03:51,590 --> 00:03:54,650
+caminha silenciosamente coletando moedas
+157
+00:03:54,650 --> 00:03:55,870
+de operários iludidos.
+158
+00:03:55,870 --> 00:03:57,450
+No final do dia,
+159
+00:03:57,870 --> 00:03:58,930
+você entrega o dinheiro
+160
+00:03:58,930 --> 00:04:00,130
+para o banqueiro, o
+161
+00:04:00,130 --> 00:04:01,050
+dono do jogo que
+162
+00:04:01,050 --> 00:04:02,510
+nunca suja as mãos,
+163
+00:04:02,890 --> 00:04:03,550
+e fica com a
+164
+00:04:03,550 --> 00:04:04,010
+comissão.
+165
+00:04:04,650 --> 00:04:05,550
+É um esquema de
+166
+00:04:05,550 --> 00:04:07,770
+evasão microscópico e perfeito,
+167
+00:04:08,310 --> 00:04:10,210
+onde pequenas transações passam
+168
+00:04:10,210 --> 00:04:11,790
+pelo sistema como formigas
+169
+00:04:11,790 --> 00:04:13,590
+carregando montanhas de capital
+170
+00:04:13,590 --> 00:04:15,070
+sem levantar suspeitas.
+171
+00:04:15,910 --> 00:04:17,350
+O dinheiro entra como
+172
+00:04:17,350 --> 00:04:19,070
+uma enxurrada e, em
+173
+00:04:19,070 --> 00:04:20,829
+semanas, você compra os
+174
+00:04:20,829 --> 00:04:22,070
+remédios da sua esposa
+175
+00:04:22,070 --> 00:04:23,130
+e a salva da
+176
+00:04:23,130 --> 00:04:23,450
+morte.
+177
+00:04:24,170 --> 00:04:25,050
+Você se sente um
+178
+00:04:25,050 --> 00:04:26,370
+herói e, com a
+179
+00:04:26,370 --> 00:04:28,490
+esposa curada, decide sair
+180
+00:04:28,490 --> 00:04:29,630
+do jogo para voltar
+181
+00:04:29,630 --> 00:04:30,630
+ao trabalho honesto.
+182
+00:04:31,250 --> 00:04:32,030
+Você vai até o
+183
+00:04:32,030 --> 00:04:33,450
+chefe para pedir demissão,
+184
+00:04:33,630 --> 00:04:34,530
+mas o banqueiro dá
+185
+00:04:34,530 --> 00:04:35,950
+um sorriso paternal que
+186
+00:04:35,950 --> 00:04:37,130
+gela o seu sangue
+187
+00:04:37,130 --> 00:04:38,590
+instantaneamente.
+188
+00:04:39,390 --> 00:04:40,190
+Ele te lembra da
+189
+00:04:40,190 --> 00:04:42,150
+regra inegociável do submundo.
+190
+00:04:42,790 --> 00:04:44,130
+Você nunca se demite
+191
+00:04:44,130 --> 00:04:44,590
+do crime.
+192
+00:04:45,410 --> 00:04:46,390
+Ele mostra que sabe
+193
+00:04:46,390 --> 00:04:48,130
+exatamente a que horas
+194
+00:04:48,130 --> 00:04:49,070
+a sua esposa sai
+195
+00:04:49,070 --> 00:04:51,090
+para comprar pão, explicando
+196
+00:04:51,090 --> 00:04:52,090
+que você não é
+197
+00:04:52,090 --> 00:04:53,730
+mais um funcionário temporário,
+198
+00:04:53,730 --> 00:04:55,490
+mas um ativo fixo
+199
+00:04:55,490 --> 00:04:57,270
+da organização que sabe
+200
+00:04:57,270 --> 00:04:58,530
+demais sobre as rotas
+201
+00:04:58,530 --> 00:04:59,410
+secretas.
+202
+00:04:59,990 --> 00:05:00,870
+A oferta é brutal.
+203
+00:05:01,630 --> 00:05:03,470
+Continue trabalhando ou sua
+204
+00:05:03,470 --> 00:05:04,970
+esposa sofrerá um acidente
+205
+00:05:04,970 --> 00:05:05,990
+trágico na rua.
+206
+00:05:06,190 --> 00:05:07,650
+A realidade te atinge
+207
+00:05:07,650 --> 00:05:08,810
+como um soco no
+208
+00:05:08,810 --> 00:05:10,610
+estômago, provando que o
+209
+00:05:10,610 --> 00:05:12,050
+seu sucesso não comprou
+210
+00:05:12,050 --> 00:05:12,970
+a sua liberdade.
+211
+00:05:13,710 --> 00:05:14,870
+Ele apenas provou que
+212
+00:05:14,870 --> 00:05:16,490
+você é lucrativo demais
+213
+00:05:16,490 --> 00:05:17,250
+para ser livre.
+214
+00:05:18,110 --> 00:05:19,450
+Os anos passam e
+215
+00:05:19,450 --> 00:05:21,150
+a sua eficiência matemática
+216
+00:05:21,150 --> 00:05:22,630
+chama a atenção da
+217
+00:05:22,630 --> 00:05:24,770
+alta cúpula, promovendo você
+218
+00:05:24,770 --> 00:05:26,630
+a gerente do bairro.
+219
+00:05:26,890 --> 00:05:27,750
+Mas com o poder,
+220
+00:05:28,290 --> 00:05:29,530
+vem o pedágio cobrado
+221
+00:05:29,530 --> 00:05:30,290
+pela sua alma.
+222
+00:05:31,130 --> 00:05:33,050
+Para sobreviver neste ecossistema,
+223
+00:05:33,470 --> 00:05:35,610
+você precisa desligar totalmente
+224
+00:05:35,610 --> 00:05:37,390
+as suas emoções e
+225
+00:05:37,390 --> 00:05:38,730
+tratar seres humanos como
+226
+00:05:38,730 --> 00:05:39,910
+lixo reciclável.
+227
+00:05:40,690 --> 00:05:41,790
+O seu dilema moral,
+228
+00:05:42,250 --> 00:05:43,450
+o momento da perda
+229
+00:05:43,450 --> 00:05:45,410
+definitiva da sua humanidade,
+230
+00:05:45,970 --> 00:05:47,270
+atinge o ápice numa
+231
+00:05:47,270 --> 00:05:48,190
+noite chuvosa.
+232
+00:05:48,970 --> 00:05:49,710
+O seu amigo de
+233
+00:05:49,710 --> 00:05:51,170
+infância, com quem você
+234
+00:05:51,170 --> 00:05:52,170
+dividia o pão na
+235
+00:05:52,170 --> 00:05:53,390
+época da fome extrema,
+236
+00:05:53,730 --> 00:05:55,550
+está afogado em dívidas
+237
+00:05:55,550 --> 00:05:57,090
+com agiotas implacáveis.
+238
+00:05:58,250 --> 00:06:00,050
+Desesperado, ele aposta o
+239
+00:06:00,050 --> 00:06:01,070
+dinheiro do aluguel no
+240
+00:06:01,070 --> 00:06:02,730
+elefante e ganha o
+241
+00:06:02,730 --> 00:06:04,490
+prêmio máximo, um valor
+242
+00:06:04,490 --> 00:06:05,610
+capaz de quebrar a
+243
+00:06:05,610 --> 00:06:06,970
+banca que você gerencia.
+244
+00:06:07,790 --> 00:06:09,190
+O banqueiro-chefe ri
+245
+00:06:09,190 --> 00:06:10,710
+de forma diabólica, diz
+246
+00:06:10,710 --> 00:06:11,390
+que o prêmio foi
+247
+00:06:11,390 --> 00:06:12,850
+cancelado e te dá
+248
+00:06:12,850 --> 00:06:15,130
+uma ordem letal, silenciar
+249
+00:06:15,130 --> 00:06:15,950
+o seu amigo para
+250
+00:06:15,950 --> 00:06:17,510
+sempre antes que ele
+251
+00:06:17,510 --> 00:06:18,590
+reclame nas ruas.
+252
+00:06:19,110 --> 00:06:20,550
+A lealdade cega ao
+253
+00:06:20,550 --> 00:06:22,090
+chefe e o instinto
+254
+00:06:22,090 --> 00:06:24,350
+animal de sobrevivência travam
+255
+00:06:24,350 --> 00:06:26,250
+uma batalha agonizante dentro
+256
+00:06:26,250 --> 00:06:26,770
+de você.
+257
+00:06:27,530 --> 00:06:29,050
+Você sabe perfeitamente que,
+258
+00:06:29,190 --> 00:06:29,950
+se não matá-lo,
+259
+00:06:30,450 --> 00:06:31,930
+a máfia matará você
+260
+00:06:31,930 --> 00:06:33,070
+e a sua família.
+261
+00:06:33,610 --> 00:06:34,730
+Você atrai o seu
+262
+00:06:34,730 --> 00:06:35,710
+amigo para o porto
+263
+00:06:35,710 --> 00:06:37,290
+na madrugada e, ao
+264
+00:06:37,290 --> 00:06:38,190
+ver os olhos dele
+265
+00:06:38,190 --> 00:06:40,090
+brilhando de esperança, a
+266
+00:06:40,090 --> 00:06:41,610
+sua humanidade implora para
+267
+00:06:41,610 --> 00:06:42,630
+você não fazer isso.
+268
+00:06:42,730 --> 00:06:43,850
+Mas o seu cérebro
+269
+00:06:43,850 --> 00:06:46,350
+reptiliano focado na sobrevivência
+270
+00:06:46,350 --> 00:06:48,250
+toma o controle, pois
+271
+00:06:48,250 --> 00:06:49,610
+a matemática fria do
+272
+00:06:49,610 --> 00:06:50,930
+crime dita que é
+273
+00:06:50,930 --> 00:06:52,090
+a vida dele ou
+274
+00:06:52,090 --> 00:06:52,510
+a sua.
+275
+00:06:52,510 --> 00:06:54,530
+Você saca a navalha
+276
+00:06:54,530 --> 00:06:55,830
+e corta a garganta
+277
+00:06:55,830 --> 00:06:56,810
+do seu melhor amigo.
+278
+00:06:57,630 --> 00:06:58,450
+Ao lavar o sangue
+279
+00:06:58,450 --> 00:07:00,150
+quente das mãos, você
+280
+00:07:00,150 --> 00:07:01,630
+percebe a pior verdade
+281
+00:07:01,630 --> 00:07:02,230
+de todas.
+282
+00:07:03,030 --> 00:07:04,190
+A miséria não roubou
+283
+00:07:04,190 --> 00:07:05,670
+a sua alma, você
+284
+00:07:05,670 --> 00:07:06,810
+mesma a entregou de
+285
+00:07:06,810 --> 00:07:07,370
+bom grado.
+286
+00:07:08,170 --> 00:07:09,410
+Aquele homem bom morreu
+287
+00:07:09,410 --> 00:07:10,010
+no porto.
+288
+00:07:10,590 --> 00:07:12,050
+No lugar dele, nasceu
+289
+00:07:12,050 --> 00:07:12,610
+um monstro.
+290
+00:07:13,350 --> 00:07:14,950
+O assassinato consolida a
+291
+00:07:14,950 --> 00:07:16,610
+sua lealdade e, nos
+292
+00:07:16,610 --> 00:07:18,410
+anos seguintes, sem nenhum
+293
+00:07:18,410 --> 00:07:20,190
+freio moral, você acende
+294
+00:07:20,190 --> 00:07:21,250
+ao topo da cadeia
+295
+00:07:21,250 --> 00:07:23,010
+alimentar após a morte
+296
+00:07:23,010 --> 00:07:23,930
+do velho banqueiro.
+297
+00:07:24,630 --> 00:07:25,550
+Você se torna o
+298
+00:07:25,550 --> 00:07:26,990
+maior bicheiro da capital
+299
+00:07:26,990 --> 00:07:28,730
+federal, onde o dinheiro
+300
+00:07:28,730 --> 00:07:30,630
+se transforma numa avalanche
+301
+00:07:30,630 --> 00:07:31,470
+indomável.
+302
+00:07:32,290 --> 00:07:33,530
+Você compra imóveis de
+303
+00:07:33,530 --> 00:07:34,990
+luxo apenas como empresas
+304
+00:07:34,990 --> 00:07:36,610
+de fachada para lavar
+305
+00:07:36,610 --> 00:07:38,050
+o fluxo nojento de
+306
+00:07:38,050 --> 00:07:38,910
+moedas sujas.
+307
+00:07:39,630 --> 00:07:41,450
+Veste seda importada e
+308
+00:07:41,450 --> 00:07:42,810
+come em banquetes com
+309
+00:07:42,810 --> 00:07:43,730
+a elite política.
+310
+00:07:44,590 --> 00:07:46,110
+Você distribui comida nos
+311
+00:07:46,110 --> 00:07:47,490
+morros e o povo
+312
+00:07:47,490 --> 00:07:48,930
+te chama de benfeitor.
+313
+00:07:48,930 --> 00:07:50,110
+Mas você sabe que
+314
+00:07:50,110 --> 00:07:51,890
+está apenas construindo monumentos
+315
+00:07:51,890 --> 00:07:53,710
+caros para tentar abafar
+316
+00:07:53,710 --> 00:07:55,390
+a culpa gritante das
+317
+00:07:55,390 --> 00:07:56,370
+vidas que destruiu.
+318
+00:07:56,710 --> 00:07:58,070
+A ilusão de poder
+319
+00:07:58,070 --> 00:07:59,530
+é destruída quando o
+320
+00:07:59,530 --> 00:08:01,050
+todo-poderoso chefe de
+321
+00:08:01,050 --> 00:08:03,070
+polícia exige uma reunião
+322
+00:08:03,070 --> 00:08:03,710
+secreta.
+323
+00:08:04,550 --> 00:08:05,690
+Ele coloca um revólver
+324
+00:08:05,690 --> 00:08:07,210
+na mesa e exige
+325
+00:08:07,210 --> 00:08:08,690
+80% dos seus
+326
+00:08:08,690 --> 00:08:11,450
+lucros, explicando cinicamente que
+327
+00:08:11,450 --> 00:08:12,650
+os grandes cartéis do
+328
+00:08:12,650 --> 00:08:14,590
+jogo são administrados pelo
+329
+00:08:14,590 --> 00:08:15,390
+próprio Estado.
+330
+00:08:16,030 --> 00:08:17,730
+Se você recusar, o
+331
+00:08:17,730 --> 00:08:19,550
+exército marchará contra você.
+332
+00:08:19,770 --> 00:08:20,730
+Você percebe a dura
+333
+00:08:20,730 --> 00:08:21,370
+realidade.
+334
+00:08:22,110 --> 00:08:23,170
+Passou a vida subindo
+335
+00:08:23,170 --> 00:08:24,670
+a escada sangrenta apenas
+336
+00:08:24,670 --> 00:08:26,270
+para descobrir que o
+337
+00:08:26,270 --> 00:08:27,450
+topo é dominado por
+338
+00:08:27,450 --> 00:08:29,710
+parasitas burocráticos e você
+339
+00:08:29,710 --> 00:08:30,470
+é só a galinha
+340
+00:08:30,470 --> 00:08:31,330
+dos ovos de ouro.
+341
+00:08:32,130 --> 00:08:33,789
+Ser extorquido te enche
+342
+00:08:33,789 --> 00:08:35,010
+de um ódio glacial
+343
+00:08:35,510 --> 00:08:37,030
+e você decide arquitetar
+344
+00:08:37,030 --> 00:08:38,250
+o golpe mais genial
+345
+00:08:38,250 --> 00:08:39,450
+da história do submundo
+346
+00:08:39,450 --> 00:08:41,270
+carioca, a sua grande
+347
+00:08:41,270 --> 00:08:42,809
+reviravolta de inteligência.
+348
+00:08:43,550 --> 00:08:44,730
+Você finge aceitar a
+349
+00:08:44,730 --> 00:08:46,370
+extorsão e sugere uma
+350
+00:08:46,370 --> 00:08:48,370
+imensa reunião de conciliação
+351
+00:08:48,370 --> 00:08:50,090
+com todos os chefões
+352
+00:08:50,090 --> 00:08:52,290
+bicheiros rivais para formarem
+353
+00:08:52,290 --> 00:08:53,690
+um sindicato unificado.
+354
+00:08:53,850 --> 00:08:55,110
+A ganância cega as
+355
+00:08:55,110 --> 00:08:56,910
+autoridades e a reunião
+356
+00:08:56,910 --> 00:08:58,590
+acontece num porão escuro
+357
+00:08:58,590 --> 00:09:00,290
+de uma mansão afastada.
+358
+00:09:01,030 --> 00:09:01,670
+O que eles não
+359
+00:09:01,670 --> 00:09:02,630
+sabem é que você
+360
+00:09:02,630 --> 00:09:04,930
+usou informantes invisíveis para
+361
+00:09:04,930 --> 00:09:06,210
+vazar todos os seus
+362
+00:09:06,210 --> 00:09:08,150
+próprios cadernos de contabilidade
+363
+00:09:08,150 --> 00:09:09,630
+e as provas da
+364
+00:09:09,630 --> 00:09:12,170
+corrupção policial diretamente para
+365
+00:09:12,170 --> 00:09:13,610
+os generais linha dura
+366
+00:09:13,610 --> 00:09:15,050
+do Exército Federal.
+367
+00:09:15,890 --> 00:09:17,150
+Durante o brinde, você
+368
+00:09:17,150 --> 00:09:18,790
+pede licença, vai ao
+369
+00:09:18,790 --> 00:09:21,370
+banheiro e escapa silenciosamente
+370
+00:09:21,370 --> 00:09:22,270
+por um túnel que
+371
+00:09:22,270 --> 00:09:23,830
+você mesmo cavou semanas
+372
+00:09:23,830 --> 00:09:24,210
+antes.
+373
+00:09:24,970 --> 00:09:25,870
+Assim que você sai
+374
+00:09:25,870 --> 00:09:26,710
+na rua sob a
+375
+00:09:26,710 --> 00:09:28,190
+chuva torrencial, o som
+376
+00:09:28,190 --> 00:09:29,570
+brutal de dezenas de
+377
+00:09:29,570 --> 00:09:31,110
+botas militares sacode o
+378
+00:09:31,110 --> 00:09:31,310
+chão.
+379
+00:09:31,950 --> 00:09:33,230
+A mansão é totalmente
+380
+00:09:33,230 --> 00:09:35,510
+cercada pelo exército inegociável
+381
+00:09:35,790 --> 00:09:36,890
+e o tiroteio que
+382
+00:09:36,890 --> 00:09:37,950
+se segue é um
+383
+00:09:37,950 --> 00:09:39,630
+massacre unilateral.
+384
+00:09:40,450 --> 00:09:41,890
+Seus maiores rivais caem
+385
+00:09:41,890 --> 00:09:43,390
+mortos e o chefe
+386
+00:09:43,390 --> 00:09:44,990
+de polícia é arrastado,
+387
+00:09:45,210 --> 00:09:46,710
+algemado e humilhado para
+388
+00:09:46,710 --> 00:09:49,630
+fora, perdendo tudo, exatamente
+389
+00:09:49,630 --> 00:09:52,210
+como você planejou milimetricamente.
+390
+00:09:52,950 --> 00:09:54,550
+Você usou brilhantemente a
+391
+00:09:54,550 --> 00:09:56,070
+força repressiva do Estado
+392
+00:09:56,070 --> 00:09:57,490
+como a sua própria
+393
+00:09:57,490 --> 00:09:59,650
+arma pessoal para aniquilar
+394
+00:09:59,650 --> 00:10:01,310
+seus inimigos e escapar
+395
+00:10:01,310 --> 00:10:01,710
+ileso.
+396
+00:10:02,530 --> 00:10:03,970
+Enquanto as sirenes ecoam
+397
+00:10:03,970 --> 00:10:05,550
+à distância, você caminha
+398
+00:10:05,550 --> 00:10:06,930
+calmamente até um navio
+399
+00:10:06,930 --> 00:10:08,470
+cargueiro francês no porto.
+400
+00:10:08,990 --> 00:10:10,070
+Você entrega um baú
+401
+00:10:10,070 --> 00:10:11,610
+cheio de libras esterlinas
+402
+00:10:11,610 --> 00:10:12,230
+ao capitão.
+403
+00:10:12,470 --> 00:10:13,970
+Que não faz perguntas,
+404
+00:10:14,550 --> 00:10:15,570
+sua esposa já está
+405
+00:10:15,570 --> 00:10:17,450
+a bordo, perfeitamente a
+406
+00:10:17,450 --> 00:10:18,910
+salvo e alheia ao
+407
+00:10:18,910 --> 00:10:19,850
+banho de sangue que
+408
+00:10:19,850 --> 00:10:21,670
+você causou para garantir
+409
+00:10:21,670 --> 00:10:22,670
+a fuga de vocês.
+410
+00:10:23,710 --> 00:10:24,270
+Ao ver o Rio
+411
+00:10:24,270 --> 00:10:25,850
+de Janeiro ficando minúsculo
+412
+00:10:25,850 --> 00:10:27,670
+no horizonte, a brisa
+413
+00:10:27,670 --> 00:10:29,150
+salgada limpa o cheiro
+414
+00:10:29,150 --> 00:10:30,090
+de morte das suas
+415
+00:10:30,090 --> 00:10:30,630
+roupas.
+416
+00:10:31,270 --> 00:10:32,210
+O jogo do bicho
+417
+00:10:32,210 --> 00:10:34,350
+continuará moendo almas, mas
+418
+00:10:34,350 --> 00:10:35,710
+você conseguiu zerar o
+419
+00:10:35,710 --> 00:10:36,130
+sistema.
+420
+00:10:36,310 --> 00:10:37,890
+A sobrevivência custou a
+421
+00:10:37,890 --> 00:10:39,630
+sua humanidade e o
+422
+00:10:39,630 --> 00:10:40,550
+sangue do seu amigo,
+423
+00:10:40,970 --> 00:10:42,290
+mas sentado na primeira
+424
+00:10:42,290 --> 00:10:43,330
+classe a caminho de
+425
+00:10:43,330 --> 00:10:44,650
+Paris sob uma nova
+426
+00:10:44,650 --> 00:10:46,670
+identidade, você sente que
+427
+00:10:46,670 --> 00:10:47,970
+valeu cada centavo.
+428
+00:10:48,690 --> 00:10:49,650
+Você sobreviveu.
