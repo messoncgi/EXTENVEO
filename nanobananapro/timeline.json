@@ -1,0 +1,1206 @@
+{
+  "projeto": "Jogo do Bicho — Origem (1895)",
+  "total_imagens": 200,
+  "timeline": [
+    {
+      "id": "IMG_001",
+      "inicio": "00:00:00,000",
+      "fim": "00:00:01,490",
+      "duracao_segundos": 1.49
+    },
+    {
+      "id": "IMG_002",
+      "inicio": "00:00:01,490",
+      "fim": "00:00:05,990",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_003",
+      "inicio": "00:00:05,990",
+      "fim": "00:00:10,490",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_004",
+      "inicio": "00:00:10,490",
+      "fim": "00:00:14,400",
+      "duracao_segundos": 3.91
+    },
+    {
+      "id": "IMG_005",
+      "inicio": "00:00:14,400",
+      "fim": "00:00:17,010",
+      "duracao_segundos": 2.61
+    },
+    {
+      "id": "IMG_006",
+      "inicio": "00:00:17,010",
+      "fim": "00:00:21,510",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_007",
+      "inicio": "00:00:21,510",
+      "fim": "00:00:23,970",
+      "duracao_segundos": 2.46
+    },
+    {
+      "id": "IMG_008",
+      "inicio": "00:00:23,970",
+      "fim": "00:00:25,610",
+      "duracao_segundos": 1.64
+    },
+    {
+      "id": "IMG_009",
+      "inicio": "00:00:25,610",
+      "fim": "00:00:30,110",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_010",
+      "inicio": "00:00:30,110",
+      "fim": "00:00:33,230",
+      "duracao_segundos": 3.12
+    },
+    {
+      "id": "IMG_011",
+      "inicio": "00:00:33,230",
+      "fim": "00:00:35,310",
+      "duracao_segundos": 2.08
+    },
+    {
+      "id": "IMG_012",
+      "inicio": "00:00:35,310",
+      "fim": "00:00:39,810",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_013",
+      "inicio": "00:00:39,810",
+      "fim": "00:00:44,310",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_014",
+      "inicio": "00:00:44,310",
+      "fim": "00:00:47,000",
+      "duracao_segundos": 2.69
+    },
+    {
+      "id": "IMG_015",
+      "inicio": "00:00:47,000",
+      "fim": "00:00:48,790",
+      "duracao_segundos": 1.79
+    },
+    {
+      "id": "IMG_016",
+      "inicio": "00:00:48,790",
+      "fim": "00:00:53,290",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_017",
+      "inicio": "00:00:53,290",
+      "fim": "00:00:56,510",
+      "duracao_segundos": 3.22
+    },
+    {
+      "id": "IMG_018",
+      "inicio": "00:00:56,510",
+      "fim": "00:00:58,650",
+      "duracao_segundos": 2.14
+    },
+    {
+      "id": "IMG_019",
+      "inicio": "00:00:58,650",
+      "fim": "00:01:02,230",
+      "duracao_segundos": 3.58
+    },
+    {
+      "id": "IMG_020",
+      "inicio": "00:01:02,230",
+      "fim": "00:01:04,610",
+      "duracao_segundos": 2.38
+    },
+    {
+      "id": "IMG_021",
+      "inicio": "00:01:04,610",
+      "fim": "00:01:09,110",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_022",
+      "inicio": "00:01:09,110",
+      "fim": "00:01:12,210",
+      "duracao_segundos": 3.1
+    },
+    {
+      "id": "IMG_023",
+      "inicio": "00:01:12,210",
+      "fim": "00:01:14,270",
+      "duracao_segundos": 2.06
+    },
+    {
+      "id": "IMG_024",
+      "inicio": "00:01:14,270",
+      "fim": "00:01:17,390",
+      "duracao_segundos": 3.12
+    },
+    {
+      "id": "IMG_025",
+      "inicio": "00:01:17,390",
+      "fim": "00:01:19,470",
+      "duracao_segundos": 2.08
+    },
+    {
+      "id": "IMG_026",
+      "inicio": "00:01:19,470",
+      "fim": "00:01:23,970",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_027",
+      "inicio": "00:01:23,970",
+      "fim": "00:01:26,780",
+      "duracao_segundos": 2.81
+    },
+    {
+      "id": "IMG_028",
+      "inicio": "00:01:26,780",
+      "fim": "00:01:28,650",
+      "duracao_segundos": 1.87
+    },
+    {
+      "id": "IMG_029",
+      "inicio": "00:01:28,650",
+      "fim": "00:01:31,810",
+      "duracao_segundos": 3.16
+    },
+    {
+      "id": "IMG_030",
+      "inicio": "00:01:31,810",
+      "fim": "00:01:35,110",
+      "duracao_segundos": 3.3
+    },
+    {
+      "id": "IMG_031",
+      "inicio": "00:01:35,110",
+      "fim": "00:01:39,610",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_032",
+      "inicio": "00:01:39,610",
+      "fim": "00:01:44,110",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_033",
+      "inicio": "00:01:44,110",
+      "fim": "00:01:46,680",
+      "duracao_segundos": 2.57
+    },
+    {
+      "id": "IMG_034",
+      "inicio": "00:01:46,680",
+      "fim": "00:01:48,390",
+      "duracao_segundos": 1.71
+    },
+    {
+      "id": "IMG_035",
+      "inicio": "00:01:48,390",
+      "fim": "00:01:51,460",
+      "duracao_segundos": 3.07
+    },
+    {
+      "id": "IMG_036",
+      "inicio": "00:01:51,460",
+      "fim": "00:01:53,510",
+      "duracao_segundos": 2.05
+    },
+    {
+      "id": "IMG_037",
+      "inicio": "00:01:53,510",
+      "fim": "00:01:56,830",
+      "duracao_segundos": 3.32
+    },
+    {
+      "id": "IMG_038",
+      "inicio": "00:01:56,830",
+      "fim": "00:01:59,050",
+      "duracao_segundos": 2.22
+    },
+    {
+      "id": "IMG_039",
+      "inicio": "00:01:59,050",
+      "fim": "00:02:03,550",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_040",
+      "inicio": "00:02:03,550",
+      "fim": "00:02:06,390",
+      "duracao_segundos": 2.84
+    },
+    {
+      "id": "IMG_041",
+      "inicio": "00:02:06,390",
+      "fim": "00:02:08,290",
+      "duracao_segundos": 1.9
+    },
+    {
+      "id": "IMG_042",
+      "inicio": "00:02:08,289",
+      "fim": "00:02:12,789",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_043",
+      "inicio": "00:02:12,789",
+      "fim": "00:02:17,089",
+      "duracao_segundos": 4.3
+    },
+    {
+      "id": "IMG_044",
+      "inicio": "00:02:17,089",
+      "fim": "00:02:19,949",
+      "duracao_segundos": 2.86
+    },
+    {
+      "id": "IMG_045",
+      "inicio": "00:02:19,950",
+      "fim": "00:02:24,450",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_046",
+      "inicio": "00:02:24,450",
+      "fim": "00:02:28,950",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_047",
+      "inicio": "00:02:28,950",
+      "fim": "00:02:32,750",
+      "duracao_segundos": 3.8
+    },
+    {
+      "id": "IMG_048",
+      "inicio": "00:02:32,750",
+      "fim": "00:02:35,290",
+      "duracao_segundos": 2.54
+    },
+    {
+      "id": "IMG_049",
+      "inicio": "00:02:35,290",
+      "fim": "00:02:39,540",
+      "duracao_segundos": 4.25
+    },
+    {
+      "id": "IMG_050",
+      "inicio": "00:02:39,540",
+      "fim": "00:02:42,370",
+      "duracao_segundos": 2.83
+    },
+    {
+      "id": "IMG_051",
+      "inicio": "00:02:42,370",
+      "fim": "00:02:46,850",
+      "duracao_segundos": 4.48
+    },
+    {
+      "id": "IMG_052",
+      "inicio": "00:02:46,850",
+      "fim": "00:02:49,830",
+      "duracao_segundos": 2.98
+    },
+    {
+      "id": "IMG_053",
+      "inicio": "00:02:49,830",
+      "fim": "00:02:53,290",
+      "duracao_segundos": 3.46
+    },
+    {
+      "id": "IMG_054",
+      "inicio": "00:02:53,290",
+      "fim": "00:02:55,590",
+      "duracao_segundos": 2.3
+    },
+    {
+      "id": "IMG_055",
+      "inicio": "00:02:55,590",
+      "fim": "00:02:57,330",
+      "duracao_segundos": 1.74
+    },
+    {
+      "id": "IMG_056",
+      "inicio": "00:02:57,330",
+      "fim": "00:03:01,830",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_057",
+      "inicio": "00:03:01,830",
+      "fim": "00:03:06,330",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_058",
+      "inicio": "00:03:06,330",
+      "fim": "00:03:10,310",
+      "duracao_segundos": 3.98
+    },
+    {
+      "id": "IMG_059",
+      "inicio": "00:03:10,310",
+      "fim": "00:03:12,970",
+      "duracao_segundos": 2.66
+    },
+    {
+      "id": "IMG_060",
+      "inicio": "00:03:12,970",
+      "fim": "00:03:16,410",
+      "duracao_segundos": 3.44
+    },
+    {
+      "id": "IMG_061",
+      "inicio": "00:03:16,410",
+      "fim": "00:03:18,710",
+      "duracao_segundos": 2.3
+    },
+    {
+      "id": "IMG_062",
+      "inicio": "00:03:18,710",
+      "fim": "00:03:23,210",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_063",
+      "inicio": "00:03:23,210",
+      "fim": "00:03:25,850",
+      "duracao_segundos": 2.64
+    },
+    {
+      "id": "IMG_064",
+      "inicio": "00:03:25,850",
+      "fim": "00:03:27,610",
+      "duracao_segundos": 1.76
+    },
+    {
+      "id": "IMG_065",
+      "inicio": "00:03:27,610",
+      "fim": "00:03:32,110",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_066",
+      "inicio": "00:03:32,110",
+      "fim": "00:03:34,850",
+      "duracao_segundos": 2.74
+    },
+    {
+      "id": "IMG_067",
+      "inicio": "00:03:34,850",
+      "fim": "00:03:36,670",
+      "duracao_segundos": 1.82
+    },
+    {
+      "id": "IMG_068",
+      "inicio": "00:03:36,670",
+      "fim": "00:03:41,170",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_069",
+      "inicio": "00:03:41,170",
+      "fim": "00:03:44,430",
+      "duracao_segundos": 3.26
+    },
+    {
+      "id": "IMG_070",
+      "inicio": "00:03:44,430",
+      "fim": "00:03:48,930",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_071",
+      "inicio": "00:03:48,930",
+      "fim": "00:03:53,090",
+      "duracao_segundos": 4.16
+    },
+    {
+      "id": "IMG_072",
+      "inicio": "00:03:53,090",
+      "fim": "00:03:55,870",
+      "duracao_segundos": 2.78
+    },
+    {
+      "id": "IMG_073",
+      "inicio": "00:03:55,870",
+      "fim": "00:04:00,370",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_074",
+      "inicio": "00:04:00,370",
+      "fim": "00:04:02,940",
+      "duracao_segundos": 2.57
+    },
+    {
+      "id": "IMG_075",
+      "inicio": "00:04:02,940",
+      "fim": "00:04:04,650",
+      "duracao_segundos": 1.71
+    },
+    {
+      "id": "IMG_076",
+      "inicio": "00:04:04,650",
+      "fim": "00:04:09,150",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_077",
+      "inicio": "00:04:09,150",
+      "fim": "00:04:13,210",
+      "duracao_segundos": 4.06
+    },
+    {
+      "id": "IMG_078",
+      "inicio": "00:04:13,210",
+      "fim": "00:04:15,910",
+      "duracao_segundos": 2.7
+    },
+    {
+      "id": "IMG_079",
+      "inicio": "00:04:15,910",
+      "fim": "00:04:19,070",
+      "duracao_segundos": 3.16
+    },
+    {
+      "id": "IMG_080",
+      "inicio": "00:04:19,070",
+      "fim": "00:04:22,130",
+      "duracao_segundos": 3.06
+    },
+    {
+      "id": "IMG_081",
+      "inicio": "00:04:22,130",
+      "fim": "00:04:24,170",
+      "duracao_segundos": 2.04
+    },
+    {
+      "id": "IMG_082",
+      "inicio": "00:04:24,170",
+      "fim": "00:04:28,420",
+      "duracao_segundos": 4.25
+    },
+    {
+      "id": "IMG_083",
+      "inicio": "00:04:28,420",
+      "fim": "00:04:31,250",
+      "duracao_segundos": 2.83
+    },
+    {
+      "id": "IMG_084",
+      "inicio": "00:04:31,250",
+      "fim": "00:04:35,750",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_085",
+      "inicio": "00:04:35,750",
+      "fim": "00:04:39,970",
+      "duracao_segundos": 4.22
+    },
+    {
+      "id": "IMG_086",
+      "inicio": "00:04:39,970",
+      "fim": "00:04:42,790",
+      "duracao_segundos": 2.82
+    },
+    {
+      "id": "IMG_087",
+      "inicio": "00:04:42,790",
+      "fim": "00:04:45,410",
+      "duracao_segundos": 2.62
+    },
+    {
+      "id": "IMG_088",
+      "inicio": "00:04:45,410",
+      "fim": "00:04:48,820",
+      "duracao_segundos": 3.41
+    },
+    {
+      "id": "IMG_089",
+      "inicio": "00:04:48,820",
+      "fim": "00:04:51,090",
+      "duracao_segundos": 2.27
+    },
+    {
+      "id": "IMG_090",
+      "inicio": "00:04:51,090",
+      "fim": "00:04:55,590",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_091",
+      "inicio": "00:04:55,590",
+      "fim": "00:04:58,230",
+      "duracao_segundos": 2.64
+    },
+    {
+      "id": "IMG_092",
+      "inicio": "00:04:58,230",
+      "fim": "00:04:59,990",
+      "duracao_segundos": 1.76
+    },
+    {
+      "id": "IMG_093",
+      "inicio": "00:04:59,990",
+      "fim": "00:05:03,710",
+      "duracao_segundos": 3.72
+    },
+    {
+      "id": "IMG_094",
+      "inicio": "00:05:03,710",
+      "fim": "00:05:06,190",
+      "duracao_segundos": 2.48
+    },
+    {
+      "id": "IMG_095",
+      "inicio": "00:05:06,190",
+      "fim": "00:05:10,690",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_096",
+      "inicio": "00:05:10,690",
+      "fim": "00:05:13,710",
+      "duracao_segundos": 3.02
+    },
+    {
+      "id": "IMG_097",
+      "inicio": "00:05:13,710",
+      "fim": "00:05:18,110",
+      "duracao_segundos": 4.4
+    },
+    {
+      "id": "IMG_098",
+      "inicio": "00:05:18,110",
+      "fim": "00:05:22,610",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_099",
+      "inicio": "00:05:22,610",
+      "fim": "00:05:25,180",
+      "duracao_segundos": 2.57
+    },
+    {
+      "id": "IMG_100",
+      "inicio": "00:05:25,180",
+      "fim": "00:05:26,890",
+      "duracao_segundos": 1.71
+    },
+    {
+      "id": "IMG_101",
+      "inicio": "00:05:26,890",
+      "fim": "00:05:31,130",
+      "duracao_segundos": 4.24
+    },
+    {
+      "id": "IMG_102",
+      "inicio": "00:05:31,130",
+      "fim": "00:05:35,630",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_103",
+      "inicio": "00:05:35,630",
+      "fim": "00:05:38,670",
+      "duracao_segundos": 3.04
+    },
+    {
+      "id": "IMG_104",
+      "inicio": "00:05:38,670",
+      "fim": "00:05:40,690",
+      "duracao_segundos": 2.02
+    },
+    {
+      "id": "IMG_105",
+      "inicio": "00:05:40,690",
+      "fim": "00:05:45,190",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_106",
+      "inicio": "00:05:45,190",
+      "fim": "00:05:47,460",
+      "duracao_segundos": 2.27
+    },
+    {
+      "id": "IMG_107",
+      "inicio": "00:05:47,460",
+      "fim": "00:05:48,970",
+      "duracao_segundos": 1.51
+    },
+    {
+      "id": "IMG_108",
+      "inicio": "00:05:48,970",
+      "fim": "00:05:53,470",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_109",
+      "inicio": "00:05:53,470",
+      "fim": "00:05:56,340",
+      "duracao_segundos": 2.87
+    },
+    {
+      "id": "IMG_110",
+      "inicio": "00:05:56,340",
+      "fim": "00:05:58,250",
+      "duracao_segundos": 1.91
+    },
+    {
+      "id": "IMG_111",
+      "inicio": "00:05:58,250",
+      "fim": "00:06:02,750",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_112",
+      "inicio": "00:06:02,750",
+      "fim": "00:06:05,770",
+      "duracao_segundos": 3.02
+    },
+    {
+      "id": "IMG_113",
+      "inicio": "00:06:05,770",
+      "fim": "00:06:07,790",
+      "duracao_segundos": 2.02
+    },
+    {
+      "id": "IMG_114",
+      "inicio": "00:06:07,790",
+      "fim": "00:06:12,290",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_115",
+      "inicio": "00:06:12,290",
+      "fim": "00:06:16,380",
+      "duracao_segundos": 4.09
+    },
+    {
+      "id": "IMG_116",
+      "inicio": "00:06:16,380",
+      "fim": "00:06:19,110",
+      "duracao_segundos": 2.73
+    },
+    {
+      "id": "IMG_117",
+      "inicio": "00:06:19,110",
+      "fim": "00:06:23,610",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_118",
+      "inicio": "00:06:23,610",
+      "fim": "00:06:25,960",
+      "duracao_segundos": 2.35
+    },
+    {
+      "id": "IMG_119",
+      "inicio": "00:06:25,960",
+      "fim": "00:06:27,530",
+      "duracao_segundos": 1.57
+    },
+    {
+      "id": "IMG_120",
+      "inicio": "00:06:27,530",
+      "fim": "00:06:31,180",
+      "duracao_segundos": 3.65
+    },
+    {
+      "id": "IMG_121",
+      "inicio": "00:06:31,180",
+      "fim": "00:06:33,610",
+      "duracao_segundos": 2.43
+    },
+    {
+      "id": "IMG_122",
+      "inicio": "00:06:33,610",
+      "fim": "00:06:35,710",
+      "duracao_segundos": 2.1
+    },
+    {
+      "id": "IMG_123",
+      "inicio": "00:06:35,710",
+      "fim": "00:06:39,920",
+      "duracao_segundos": 4.21
+    },
+    {
+      "id": "IMG_124",
+      "inicio": "00:06:39,920",
+      "fim": "00:06:42,730",
+      "duracao_segundos": 2.81
+    },
+    {
+      "id": "IMG_125",
+      "inicio": "00:06:42,730",
+      "fim": "00:06:47,230",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_126",
+      "inicio": "00:06:47,230",
+      "fim": "00:06:50,400",
+      "duracao_segundos": 3.17
+    },
+    {
+      "id": "IMG_127",
+      "inicio": "00:06:50,400",
+      "fim": "00:06:52,510",
+      "duracao_segundos": 2.11
+    },
+    {
+      "id": "IMG_128",
+      "inicio": "00:06:52,510",
+      "fim": "00:06:55,580",
+      "duracao_segundos": 3.07
+    },
+    {
+      "id": "IMG_129",
+      "inicio": "00:06:55,580",
+      "fim": "00:06:57,630",
+      "duracao_segundos": 2.05
+    },
+    {
+      "id": "IMG_130",
+      "inicio": "00:06:57,630",
+      "fim": "00:07:00,870",
+      "duracao_segundos": 3.24
+    },
+    {
+      "id": "IMG_131",
+      "inicio": "00:07:00,870",
+      "fim": "00:07:03,030",
+      "duracao_segundos": 2.16
+    },
+    {
+      "id": "IMG_132",
+      "inicio": "00:07:03,030",
+      "fim": "00:07:06,110",
+      "duracao_segundos": 3.08
+    },
+    {
+      "id": "IMG_133",
+      "inicio": "00:07:06,110",
+      "fim": "00:07:08,170",
+      "duracao_segundos": 2.06
+    },
+    {
+      "id": "IMG_134",
+      "inicio": "00:07:08,170",
+      "fim": "00:07:10,590",
+      "duracao_segundos": 2.42
+    },
+    {
+      "id": "IMG_135",
+      "inicio": "00:07:10,590",
+      "fim": "00:07:13,350",
+      "duracao_segundos": 2.76
+    },
+    {
+      "id": "IMG_136",
+      "inicio": "00:07:13,350",
+      "fim": "00:07:17,850",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_137",
+      "inicio": "00:07:17,850",
+      "fim": "00:07:21,920",
+      "duracao_segundos": 4.07
+    },
+    {
+      "id": "IMG_138",
+      "inicio": "00:07:21,920",
+      "fim": "00:07:24,630",
+      "duracao_segundos": 2.71
+    },
+    {
+      "id": "IMG_139",
+      "inicio": "00:07:24,630",
+      "fim": "00:07:26,990",
+      "duracao_segundos": 2.36
+    },
+    {
+      "id": "IMG_140",
+      "inicio": "00:07:26,990",
+      "fim": "00:07:30,170",
+      "duracao_segundos": 3.18
+    },
+    {
+      "id": "IMG_141",
+      "inicio": "00:07:30,170",
+      "fim": "00:07:32,290",
+      "duracao_segundos": 2.12
+    },
+    {
+      "id": "IMG_142",
+      "inicio": "00:07:32,290",
+      "fim": "00:07:36,690",
+      "duracao_segundos": 4.4
+    },
+    {
+      "id": "IMG_143",
+      "inicio": "00:07:36,690",
+      "fim": "00:07:39,630",
+      "duracao_segundos": 2.94
+    },
+    {
+      "id": "IMG_144",
+      "inicio": "00:07:39,630",
+      "fim": "00:07:44,590",
+      "duracao_segundos": 4.96
+    },
+    {
+      "id": "IMG_145",
+      "inicio": "00:07:44,590",
+      "fim": "00:07:48,930",
+      "duracao_segundos": 4.34
+    },
+    {
+      "id": "IMG_146",
+      "inicio": "00:07:48,930",
+      "fim": "00:07:53,430",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_147",
+      "inicio": "00:07:53,430",
+      "fim": "00:07:56,710",
+      "duracao_segundos": 3.28
+    },
+    {
+      "id": "IMG_148",
+      "inicio": "00:07:56,710",
+      "fim": "00:08:01,210",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_149",
+      "inicio": "00:08:01,210",
+      "fim": "00:08:04,550",
+      "duracao_segundos": 3.34
+    },
+    {
+      "id": "IMG_150",
+      "inicio": "00:08:04,550",
+      "fim": "00:08:08,690",
+      "duracao_segundos": 4.14
+    },
+    {
+      "id": "IMG_151",
+      "inicio": "00:08:08,690",
+      "fim": "00:08:11,450",
+      "duracao_segundos": 2.76
+    },
+    {
+      "id": "IMG_152",
+      "inicio": "00:08:11,450",
+      "fim": "00:08:15,950",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_153",
+      "inicio": "00:08:15,950",
+      "fim": "00:08:18,240",
+      "duracao_segundos": 2.29
+    },
+    {
+      "id": "IMG_154",
+      "inicio": "00:08:18,240",
+      "fim": "00:08:19,770",
+      "duracao_segundos": 1.53
+    },
+    {
+      "id": "IMG_155",
+      "inicio": "00:08:19,770",
+      "fim": "00:08:24,270",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_156",
+      "inicio": "00:08:24,270",
+      "fim": "00:08:28,770",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_157",
+      "inicio": "00:08:28,770",
+      "fim": "00:08:30,790",
+      "duracao_segundos": 2.02
+    },
+    {
+      "id": "IMG_158",
+      "inicio": "00:08:30,790",
+      "fim": "00:08:32,130",
+      "duracao_segundos": 1.34
+    },
+    {
+      "id": "IMG_159",
+      "inicio": "00:08:32,130",
+      "fim": "00:08:36,630",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_160",
+      "inicio": "00:08:36,630",
+      "fim": "00:08:40,780",
+      "duracao_segundos": 4.15
+    },
+    {
+      "id": "IMG_161",
+      "inicio": "00:08:40,780",
+      "fim": "00:08:43,550",
+      "duracao_segundos": 2.77
+    },
+    {
+      "id": "IMG_162",
+      "inicio": "00:08:43,550",
+      "fim": "00:08:48,050",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_163",
+      "inicio": "00:08:48,050",
+      "fim": "00:08:51,530",
+      "duracao_segundos": 3.48
+    },
+    {
+      "id": "IMG_164",
+      "inicio": "00:08:51,530",
+      "fim": "00:08:53,850",
+      "duracao_segundos": 2.32
+    },
+    {
+      "id": "IMG_165",
+      "inicio": "00:08:53,850",
+      "fim": "00:08:58,160",
+      "duracao_segundos": 4.31
+    },
+    {
+      "id": "IMG_166",
+      "inicio": "00:08:58,160",
+      "fim": "00:09:01,030",
+      "duracao_segundos": 2.87
+    },
+    {
+      "id": "IMG_167",
+      "inicio": "00:09:01,030",
+      "fim": "00:09:05,530",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_168",
+      "inicio": "00:09:05,530",
+      "fim": "00:09:10,030",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_169",
+      "inicio": "00:09:10,030",
+      "fim": "00:09:13,550",
+      "duracao_segundos": 3.52
+    },
+    {
+      "id": "IMG_170",
+      "inicio": "00:09:13,550",
+      "fim": "00:09:15,890",
+      "duracao_segundos": 2.34
+    },
+    {
+      "id": "IMG_171",
+      "inicio": "00:09:15,890",
+      "fim": "00:09:20,390",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_172",
+      "inicio": "00:09:20,390",
+      "fim": "00:09:23,140",
+      "duracao_segundos": 2.75
+    },
+    {
+      "id": "IMG_173",
+      "inicio": "00:09:23,140",
+      "fim": "00:09:24,970",
+      "duracao_segundos": 1.83
+    },
+    {
+      "id": "IMG_174",
+      "inicio": "00:09:24,970",
+      "fim": "00:09:26,710",
+      "duracao_segundos": 1.74
+    },
+    {
+      "id": "IMG_175",
+      "inicio": "00:09:26,710",
+      "fim": "00:09:31,210",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_176",
+      "inicio": "00:09:31,210",
+      "fim": "00:09:35,710",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_177",
+      "inicio": "00:09:35,710",
+      "fim": "00:09:38,550",
+      "duracao_segundos": 2.84
+    },
+    {
+      "id": "IMG_178",
+      "inicio": "00:09:38,550",
+      "fim": "00:09:40,450",
+      "duracao_segundos": 1.9
+    },
+    {
+      "id": "IMG_179",
+      "inicio": "00:09:40,450",
+      "fim": "00:09:44,950",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_180",
+      "inicio": "00:09:44,950",
+      "fim": "00:09:49,450",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_181",
+      "inicio": "00:09:49,450",
+      "fim": "00:09:51,550",
+      "duracao_segundos": 2.1
+    },
+    {
+      "id": "IMG_182",
+      "inicio": "00:09:51,550",
+      "fim": "00:09:52,950",
+      "duracao_segundos": 1.4
+    },
+    {
+      "id": "IMG_183",
+      "inicio": "00:09:52,950",
+      "fim": "00:09:57,450",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_184",
+      "inicio": "00:09:57,450",
+      "fim": "00:10:00,500",
+      "duracao_segundos": 3.05
+    },
+    {
+      "id": "IMG_185",
+      "inicio": "00:10:00,500",
+      "fim": "00:10:02,530",
+      "duracao_segundos": 2.03
+    },
+    {
+      "id": "IMG_186",
+      "inicio": "00:10:02,530",
+      "fim": "00:10:06,410",
+      "duracao_segundos": 3.88
+    },
+    {
+      "id": "IMG_187",
+      "inicio": "00:10:06,410",
+      "fim": "00:10:08,990",
+      "duracao_segundos": 2.58
+    },
+    {
+      "id": "IMG_188",
+      "inicio": "00:10:08,990",
+      "fim": "00:10:12,330",
+      "duracao_segundos": 3.34
+    },
+    {
+      "id": "IMG_189",
+      "inicio": "00:10:12,330",
+      "fim": "00:10:14,550",
+      "duracao_segundos": 2.22
+    },
+    {
+      "id": "IMG_190",
+      "inicio": "00:10:14,550",
+      "fim": "00:10:19,050",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_191",
+      "inicio": "00:10:19,050",
+      "fim": "00:10:21,850",
+      "duracao_segundos": 2.8
+    },
+    {
+      "id": "IMG_192",
+      "inicio": "00:10:21,850",
+      "fim": "00:10:23,710",
+      "duracao_segundos": 1.86
+    },
+    {
+      "id": "IMG_193",
+      "inicio": "00:10:23,710",
+      "fim": "00:10:28,210",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_194",
+      "inicio": "00:10:28,210",
+      "fim": "00:10:31,270",
+      "duracao_segundos": 3.06
+    },
+    {
+      "id": "IMG_195",
+      "inicio": "00:10:31,270",
+      "fim": "00:10:34,290",
+      "duracao_segundos": 3.02
+    },
+    {
+      "id": "IMG_196",
+      "inicio": "00:10:34,290",
+      "fim": "00:10:36,310",
+      "duracao_segundos": 2.02
+    },
+    {
+      "id": "IMG_197",
+      "inicio": "00:10:36,310",
+      "fim": "00:10:40,970",
+      "duracao_segundos": 4.66
+    },
+    {
+      "id": "IMG_198",
+      "inicio": "00:10:40,970",
+      "fim": "00:10:45,470",
+      "duracao_segundos": 4.5
+    },
+    {
+      "id": "IMG_199",
+      "inicio": "00:10:45,470",
+      "fim": "00:10:48,690",
+      "duracao_segundos": 3.22
+    },
+    {
+      "id": "IMG_200",
+      "inicio": "00:10:48,690",
+      "fim": "00:10:49,650",
+      "duracao_segundos": 0.96
+    }
+  ]
+}
